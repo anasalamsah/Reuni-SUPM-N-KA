@@ -1,0 +1,6 @@
+{
+  "name": "SUPMN Kotaagung Reunion Command Center",
+  "description": "Sistem Operasional & Command Center Reuni Akbar SUPM N Kotaagung Angkatan 1–19 (SUPMN Reunion OS) dengan manajemen peserta, iuran, anggaran, buku kas, rekonsiliasi, audit trail, dan RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
